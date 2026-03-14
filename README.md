@@ -6,7 +6,7 @@ Um jogo da cobrinha clássico feito com HTML, CSS e JavaScript.
 🏆 Premiado como "Projeto do Mês - DevClub (Abril)".
 
 ## 🚀 Como jogar
-Abra o <a href="" target="_blank" rel="noopener noreferrer">jogo da cobrinha online</a> no navegador e divirta-se!
+Abra o <a href="https://lucasferreiraprogramador.github.io/Jogo-da-cobrinha/" target="_blank" rel="noopener noreferrer">jogo da cobrinha online</a> no navegador e divirta-se!
 
 ## 📁 Tecnologias
 - HTML5
