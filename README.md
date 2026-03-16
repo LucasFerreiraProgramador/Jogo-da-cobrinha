@@ -15,7 +15,7 @@ Abra o <a href="https://lucasferreiraprogramador.github.io/Jogo-da-cobrinha/" ta
 
 ---
 ## 👤 Autor
-- **Lucas Ferreira**
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
 - [GitHub](https://github.com/LucasFerreiraProgramador)
 - [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
 
